@@ -1,0 +1,15 @@
+{
+  "name": "raj-apache",
+  "version": "0.1.0",
+  "author": "raj",
+  "summary": "Module for install and uninstall Apache",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
